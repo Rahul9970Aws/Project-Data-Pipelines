@@ -111,11 +111,5 @@ Developed reusable data quality checks to ensure reliability of data pipelines, 
 6. End-to-End AWS Workflow<br>
 Understood how various AWS services (S3, IAM and Redshift Serverless) work together in a data pipeline, including security and access configurations.
 
-## 📈 Outcome: <br>
-By implementing this project, I developed and deployed a fully-automated and monitored ETL pipeline using Airflow, with dynamic tasks, reusable operators and strong data validation to ensure reliable reporting.
 
-## 👤 Author
 
-**Siddharth Gada**  
-📧 Email: gadasiddharth@gmail.com <br>
-🔗 LinkedIn: https://www.linkedin.com/in/siddharthgada/
